@@ -1,0 +1,36 @@
+{
+  "title": "5 Secrets to Viral Reels",
+  "profile": {
+    "handle": "@antigravity_ai",
+    "display_name": "Antigravity AI"
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "text": "5 Secrets to *Viral Reels* (That Nobody Tells You)",
+      "subtitle": "Stop guessing and start scaling your reach today.",
+      "annotation": "Game changer alert!"
+    },
+    {
+      "type": "body",
+      "title": "1. The 3-Second Rule",
+      "text": "Your *hook* must stop the scroll immediately. Use movement or text overlays.",
+      "bullets": [
+        "Use *bright colors*",
+        "Dynamic captions",
+        "Fast cuts"
+      ]
+    },
+    {
+      "type": "body",
+      "title": "2. High Save Rate",
+      "text": "Instagram prioritizes *saves* over likes. Create value that people want to revisit.",
+      "annotation": "This is the most important metric!"
+    },
+    {
+      "type": "cta",
+      "text": "Want more AI-powered growth strategies?",
+      "button_text": "Follow for More"
+    }
+  ]
+}

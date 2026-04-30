@@ -1,0 +1,6 @@
+{
+  "api_token": "YOUR_METRICOOL_API_TOKEN",
+  "user_id": "YOUR_USER_ID",
+  "blog_id": "YOUR_BLOG_ID",
+  "timezone": "America/New_York"
+}

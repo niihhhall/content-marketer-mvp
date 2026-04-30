@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+
+# Project Specific
+output/
+outputs/
+research/data/
+research/reports/
+research/cache/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
